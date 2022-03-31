@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="info">Info</string>
+    <string name="rating">Rating:</string>
+    <string name="_1">1</string>
+    <string name="popularity">Popularity:</string>
+    <string name="overview">OverView:</string>
+    <string name="londra_da_ya_ayan_bir_aile_babas_olan_chaudhry_baldev_singh_bir_g_n_hindistan_dan_gelen_bir_mektupla_ge_mi_e_d_ner_mektup_bir_zamanlar_en_yak_n_arkada_olan_ki_idendir_ve_uzun_zaman_nce_kendisine_verdi_i_s_z_hat_rlatmaktad_r_buna_g_re_aralar_nda_y_llar_nce_birbirlerine_verdikleri_s_z_nedeniyle_ocuklar_n_birbirleriyle_evlendirmeleri_gerekmektedir_chaudhry_s_z_n_tutmaya_kararl_d_r_ancak_k_z_n_evlenmek_i_in_hindistan_a_g_ndermeden_nce_ona_zg_r_olup_istedi_ini_yapabilmesi_i_in_bir_ayl_k_bir_m_hdet_tan_r">Londra\'da yaşayan bir aile babası olan Chaudhry Baldev Singh, bir gün Hindistan\'dan gelen bir mektupla geçmişe döner. Mektup bir zamanlar en yakın arkadaşı olan kişidendir ve uzun zaman önce kendisine verdiği sözü hatırlatmaktadır. Buna göre aralarında yıllar önce birbirlerine verdikleri söz nedeniyle çocuklarını birbirleriyle evlendirmeleri gerekmektedir. Chaudhry sözünü tutmaya kararlıdır ancak kızını evlenmek için Hindistan\'a göndermeden önce ona özgür olup istediğini yapabilmesi için bir aylık bir mühdet tanır.</string>
+    <string name="ba_lant_problemi">Bağlantı Problemi</string>
+    <string name="dilwale_dulhania_le_jayenge">Dilwale Dulhania Le Jayenge</string>
+    <string name="todo">TODO</string>
+    <string name="error_message">Error Message</string>
+</resources>
